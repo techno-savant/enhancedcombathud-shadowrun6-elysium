@@ -23,7 +23,8 @@
    "noImplicitOverride": true,
    "noImplicitAny": false,
    "skipLibCheck": true,
-   "suppressExcessPropertyErrors": true
+   "suppressExcessPropertyErrors": true,
+   "ignoreDeprecations": "5.0"
  },
  "include": [
    "src"
