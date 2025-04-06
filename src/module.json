@@ -1,0 +1,51 @@
+{
+  "id": "enhancedcombathud-shadownrun6-elysium",
+  "title": "Argon - Combat HUD (shadowrun6-elysium)",
+  "description": "",
+  "version": "0.0.1",
+
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 11,
+    "verified": 12,
+    "maximum": 12
+  },
+  "authors": [
+    {
+      "name": "Savant",
+      "url": "https://github.com/techno.savant",
+      "discord": "techno.savant"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowrun6=elysium",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "enhancedcombathud",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "styles": ["styles/module.css"],
+  "esmodules": ["scripts/module.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/techno.savant/enhancedcombathud-shadowrun6-elysium",
+  "manifest": "MANIFEST",
+  "download": "DOWNLOAD",
+  "license": "LICENSE",
+  "readme": "README.md"
+}

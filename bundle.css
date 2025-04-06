@@ -1,0 +1,134 @@
+.system-dragonbane .ech-tooltip .ech-tooltip-body {
+  background: url("../../../systems/dragonbane/art/ui/dialog-bg.webp") repeat;
+  background-position-x: center;
+  font-family: QTFrizQuad;
+  color: black;
+}
+
+.system-dragonbane .ech-tooltip .ech-tooltip-body .ech-tooltip-subtitle {
+  background: url("../../../systems/dragonbane/art/ui/button-bg.webp") repeat;
+  color: #f5f5f5;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-portrait-hud {
+  background: url("../../../systems/dragonbane/art/ui/dialog-bg.webp") repeat;
+  background-position-x: center;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-portrait-hud .player-details {
+  font-family: QTFrizQuad;
+  color: #f5f5f5;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-ability-menu {
+  font-family: QTFrizQuad;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-ability-menu:before {
+  background: url("../../../systems/dragonbane/art/ui/dialog-bg.webp") repeat;
+  background-position-x: center;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-ability-menu ul > li {
+  color: black;
+  font-size: 110%;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-ability-menu ul > li.ability-title {
+  background: url("../../../systems/dragonbane/art/ui/button-bg.webp") repeat;
+  color: #f5f5f5;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-ability-menu .attribute-condition.on {
+  color: red;
+}
+
+.system-dragonbane .extended-combat-hud .movement-hud.dragonbane-movement-hud {
+  background: url("../../../systems/dragonbane/art/ui/dialog-bg.webp") repeat;
+  background-position-x: center;
+  font-family: QTFrizQuad;
+  color: black;
+}
+
+.system-dragonbane .extended-combat-hud .movement-hud.dragonbane-movement-hud .button-hud-button {
+  color: black;
+  background: none;
+}
+
+.system-dragonbane .extended-combat-hud .movement-hud.dragonbane-movement-hud.dragonbane-monster .movement-space {
+  height: 18px;
+  width: 18px;
+  margin: 6px 4px;
+}
+
+.system-dragonbane .extended-combat-hud .action-hud .actions-container.dragonbane-actions-container {
+  font-family: QTFrizQuad;
+}
+
+.system-dragonbane .extended-combat-hud .action-hud .actions-container.dragonbane-actions-container:before {
+  background: url("../../../systems/dragonbane/art/ui/button-bg.webp") repeat;
+  color: #f5f5f5;
+}
+
+.system-dragonbane .extended-combat-hud .action-hud .features-container .feature-element-title,
+.system-dragonbane .extended-combat-hud .action-hud .features-container .feature-accordion-title {
+  font-family: QTFrizQuad;
+}
+
+.system-dragonbane .extended-combat-hud .action-hud .features-container .feature-accordion-title,
+.system-dragonbane .extended-combat-hud .action-hud .features-container .feature-spell-slots {
+  background: url("../../../systems/dragonbane/art/ui/button-bg.webp") repeat;
+  color: #f5f5f5;
+}
+
+.system-dragonbane .extended-combat-hud .dragonbane-movement-hud .dragonbane-movement {
+  background: url("../../../systems/dragonbane/art/ui/button-bg.webp") repeat;
+}
+
+/* .system-dragonbane .movement-hud.dragonbane-movement-hud .movement-space.dragonbane-movement,.system-dragonbane .movement-hud.dragonbane-movement-hud .button-hud-button { */
+/*     background: url(../../../systems/dragonbane/art/ui/button-bg.webp); */
+/*     background-repeat: repeat; */
+/*     background-size: contain; */
+/*     background-clip: border-box; */
+/*     color: whitesmoke; */
+/*     font-family: QTFrizQuad; */
+/*     font-weight: normal; */
+/* } */
+/* .system-dragonbane .movement-hud.dragonbane-movement-hud .movement-current { */
+/*     color: green; */
+/* } */
+/* .system-dragonbane .ability-menu.dragonbane-ability-menu ul>li, .system-dragonbane .actions-container.dragonbane-actions-container::before, .systen-dragonbane .actions-container.dragonbane-actions-container .action-element.dragon-bane-action-element::before { */
+/*     background: url(../../../systems/dragonbane/art/ui/button-bg.webp); */
+/*     background-repeat: repeat; */
+/*     background-size: contain; */
+/*     background-clip: border-box; */
+/*     color: whitesmoke; */
+/*     font-family: QTFrizQuad; */
+/*     font-weight: normal; */
+/* } */
+/* .extended-combat-hud .action-hud .action-element.dragonbane-action-element { */
+/*     font-family: QTFrizQuad; */
+/*     font-weight: normal; */
+/*     color: whitesmoke; */
+/*     font-size: 18px; */
+/*     /\* background: url(../../../systems/dragonbane/art/ui/dialog-bg.webp) repeat; *\/ */
+/*     /\* background-position-x: center; *\/ */
+/*     /\* background: url(../../../systems/dragonbane/art/ui/button-bg.webp); *\/ */
+/*     /\* background-repeat: repeat; *\/ */
+/*     /\* background-size: contain; *\/ */
+/*     /\* background-clip: border-box; *\/ */
+/* }     */
+/* /\* body > div.extended-combat-hud.fade-out-inactive-false > div.action-hud > div:nth-child(1) { *\/ */
+/* /\*         background: url(../../../systems/dragonbane/art/ui/button-bg.webp); *\/ */
+/* /\*     background-repeat: repeat; *\/ */
+/* /\*     background-size: contain; *\/ */
+/* /\*     background-clip: border-box; *\/ */
+/* /\* } *\/ */
+/* /\* body > div.extended-combat-hud.fade-out-inactive-false > div:nth-child(6) > div:nth-child(1) { *\/ */
+/* /\*     font-family: QTFrizQuad; *\/ */
+/* /\*     font-weight: normal; *\/ */
+/* /\*     color: whitesmoke; *\/ */
+/* /\*     /\\* font-size: 18px; *\\/ *\/ */
+/* /\* } *\/ */
+
+/*# sourceMappingURL=bundle.css.map */
