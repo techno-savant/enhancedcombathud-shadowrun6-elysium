@@ -21,7 +21,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "shadowrun6=elysium",
+        "id": "shadowrun6-elysium",
         "type": "system",
         "compatibility": {}
       }
